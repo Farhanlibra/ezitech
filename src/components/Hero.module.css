@@ -1,0 +1,41 @@
+.imagecontainer{
+    position: relative;
+    color: rgb(238, 239, 243);
+    text-align: center;
+    
+}
+.linkb{
+    color: rgb(27, 48, 66);
+    padding: 10ox;
+    margin-left: 80px;
+   
+    text-decoration:none ;
+    text-align: justify;
+    font-size: small;
+}
+.nav{
+    height: 20px;
+}
+.bottomleft{
+    position: absolute;
+    
+}
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .centeredform{
+    position: absolute;
+    top: 60%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+  }
+  .imagelink{
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(6, 85, 153);
+    margin: 20px;
+  }

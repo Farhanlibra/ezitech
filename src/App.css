@@ -1,0 +1,82 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.nav-link active{
+    color: #f7f3f3;
+}
+.works{
+    margin: 28px;
+    padding: 60px;
+}
+.cardwork{
+    margin-right: 50px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+.searchinp{
+    margin-left: 400px;
+    width: 400px;
+    font-weight: lighter;
+}
+.headingtrends{
+    text-align: center;
+    font-size: 26px;
+    margin-bottom: 40px;
+}
+.trenddec{
+    text-align: center;
+    font-size: 16px;
+}
+.abouttext{
+    width: 300px;
+    margin-left: 60px;
+}
+.pages{
+    margin-top: 40px;
+}
+.trends{
+    display:flex inline,
+}
+.tcard{
+    margin: 30px;
+}
+.ttitle{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.inth{
+    text-align: center;
+}
+.it{
+    background-color: blueviolet;
+}
+.pist{
+    background-color: rgb(240, 228, 228);
+    height: 300px;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.rcc{
+    margin: 30px;
+    margin-left: 30px;
+}
+.intcd{
+    margin: 30px;}
+.ih{
+        text-align: center;
+    }
+
+.containerft{
+    background-color: cyan;
+}
+.fha{
+    margin-left: 60px;
+}

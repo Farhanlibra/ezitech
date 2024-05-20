@@ -1,0 +1,21 @@
+.heading{
+    text-align: center;
+    padding: 15px;
+    margin: 20px;
+}
+.awarddes{
+    text-align: justify;
+    font-size: 16px;
+    padding: 10px;
+    margin: 6px;
+    width: 1100px;
+}
+.awardimage{
+    margin-top: 22px;
+    margin-left: 90px;
+    float: left;
+    margin-right: 30px;
+}
+.awardcont{
+    display: flex inline-block;
+}
