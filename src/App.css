@@ -76,6 +76,8 @@
 
 .containerft{
     background-color: cyan;
+    width: 100%;
+    margin-right: 0px;
 }
 .fha{
     margin-left: 60px;
