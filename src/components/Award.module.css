@@ -18,4 +18,5 @@
 }
 .awardcont{
     display: flex inline-block;
+    width:100%;
 }

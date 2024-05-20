@@ -7,7 +7,7 @@ const Trends = () => {
  
   return (
     
-    <div >
+    <div className={style.tmain} >
       
       <h1 className='headingtrends'>What new trends and technology will you discover?</h1>
       <p className='trenddec'>Today's technology is developing quickly, and our new technological trends are enabling and <br></br>advancing, speeding up the pace of development.</p>

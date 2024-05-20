@@ -1,4 +1,5 @@
 .workcard{
     display: flex inline;
     margin-right: 100px;
+    width:100%
 }

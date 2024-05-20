@@ -7,7 +7,7 @@ const Courses = () => {
  
   return (
     
-    <div >
+    <div className={style.cmain} >
       
       <h1 className='headingtrends'>Recommended Course's</h1>
       
