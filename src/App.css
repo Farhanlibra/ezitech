@@ -2,6 +2,7 @@
     margin:0px;
     margin-right: 0;
     padding: 0px;
+    width: 100%;
 }
 .nav-link active{
     color: #f7f3f3;
