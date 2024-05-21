@@ -18,17 +18,22 @@ function App() {
 
   return (
     <>
+      <div style={{width:100%}}>
       <Header/>
       <Hero/>
+      </div>
       <Award/>
       <div className='works'><Works/></div>
       <div className='trends'><Trends/></div>
     
       <Courses/>
       <h1 className='ih'>Perfect Internship's For You</h1>
-      <Internship/>
-     
+      <div style={{width:100%}}><Internship/></div>
+      
+      <div style={{width:100%}}>
       <Footer/>
+      </div>
+      
        
     </>
   )
